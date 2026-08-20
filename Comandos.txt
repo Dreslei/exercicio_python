@@ -1,0 +1,5 @@
+Comandos git + GitHub 
+
+- Git init -> Inicializar um novo repositório. 
+
+- Git status -> Verificar os status do commit's
